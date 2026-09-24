@@ -218,6 +218,11 @@ Streetlight: ON
 
 ---
 
+## Output
+
+<img width="1118" height="549" alt="WhatsApp Image 2026-09-24 at 2 39 01 PM" src="https://github.com/user-attachments/assets/abb0ac89-c69c-4dd8-b3bc-1c35d9640fad" />
+
+
 ## Working
 
 The potentiometer is used to simulate the operation of an **LDR light sensor**. It produces an analog voltage according to its position.
